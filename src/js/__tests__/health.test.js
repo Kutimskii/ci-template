@@ -5,7 +5,6 @@ test('health  = 14', () => {
   expect(result).toBe('critical');
 });
 
-
 test.each([
   [55, 'healthy'],
   [25, 'wounded'],
