@@ -1,7 +1,6 @@
 {
   "name": "ajs",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -36,6 +35,7 @@
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
-    "core-js": "^3.6.5"
-  }
+    "core-js": "^3.30.2"
+  },
+  "description": ""
 }
